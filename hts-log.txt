@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Sep 2018 14:28:41 at http://localhost/about%20me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/about%20me/ -O1 "C:\My Web Sites\dorry" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:34	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/js/script.js?ver=4.9.8 (from localhost/about me/)
+14:29:34	Error: 	"Method Not Allowed" (405) at link localhost/about me/xmlrpc.php (from localhost/about me/)
+14:29:43	Error: 	"Bad Request" (400) at link localhost/about me/wp-admin/admin-ajax.php (from localhost/about me/)
+14:29:43	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.eot (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:43	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.eot? (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.woff2 (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.woff (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.ttf (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.svg (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/images/bg_header.jpg (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0 (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.9.8)
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.eot? (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.9.8)
+14:29:44	Warning: 	File not parsed, looks like binary: localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+14:29:44	Error: 	"Not Found" (404) at link localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from localhost/about me/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.9.8)
+14:29:44	Warning: 	Moved Permanently for localhost/about me/?p=54
+14:29:44	Warning: 	File has moved from localhost/about me/?p=54 to http://localhost/about%20me/index.php/about-me/
+14:29:44	Warning: 	Moved Permanently for localhost/about me/?p=96
+14:29:44	Warning: 	File has moved from localhost/about me/?p=96 to http://localhost/about%20me/index.php/experiences/
+14:29:44	Warning: 	Moved Permanently for localhost/about me/?p=168
+14:29:44	Warning: 	File has moved from localhost/about me/?p=168 to http://localhost/about%20me/index.php/experiences/introduction-to-html5/
+14:29:44	Warning: 	Moved Permanently for localhost/about me/?p=66
+14:29:44	Warning: 	File has moved from localhost/about me/?p=66 to http://localhost/about%20me/index.php/contact-me/
+14:30:44	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost/about me/wp-content/themes/enfold/framework/css/conditional_load/?C=S;O=D (from localhost/about me/wp-content/themes/enfold/framework/css/conditional_load/?C=S;O=A)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 11 seconds : 422 links scanned, 403 files written (3775880 bytes overall) [3896312 bytes received at 29742 bytes/sec], 14.0 requests per connection
+(13 errors, 10 warnings, 0 messages)
